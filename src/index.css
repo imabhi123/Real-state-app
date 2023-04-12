@@ -1,0 +1,136 @@
+body {
+  overflow-x: hidden;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.btn:focus {
+  outline: none;
+  box-shadow: none;
+}
+a{
+  text-decoration: none;
+  transition: all 1.5s ;
+
+}
+a:hover{
+  font-weight: 600;
+}
+li{
+  display: inline-block;
+}
+.nav-item:hover .nav-link {
+color: #FD5631 !important;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+button:focus {
+  outline: none;
+  box-shadow: none;
+}
+#AddedToday1{
+  height: 41em;
+  background: url("https://images.pexels.com/photos/2440471/pexels-photo-2440471.jpeg?auto=compress&cs=tinysrgb&w=600")  100% 100%;
+  background-size: cover;
+}
+#AddedToday2 {
+  height: 20em;
+  background: url("https://images.pexels.com/photos/90317/pexels-photo-90317.jpeg?auto=compress&cs=tinysrgb&w=600");
+  margin: 1em 0;
+  position: relative;
+  left: .7em;
+}
+#AddedToday1 button ,#AddedToday2 button
+{
+  font-weight: bold;
+}
+
+
+
+#AddedToday2 button , #AddedToday2 .position-absolute ,
+#AddedToday1 button , #AddedToday1 .position-absolute  {
+  position: relative;
+  z-index: 2;
+}
+
+
+
+#AddedToday2::after , #AddedToday1::after {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 50em;
+  background-image: linear-gradient(
+    to bottom, 
+    rgba(255, 255, 255, 0) 60% , 
+    rgba(0, 0, 0 , .5)40%
+  );
+  /* background-image: linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1)); */
+
+  
+}
+.active{
+  color:red !important;
+}
+.accommodation{
+  margin-left: -6.8em;
+}
+.quickitem-link{
+  transition: all 1s ;
+  opacity: .2;
+}
+.quickitem-link:hover{
+  opacity: 1;
+}
+.form-check-input:checked {
+  background-color: #FD5631;
+  border-color: #FD5631;
+}
+
+.reset-btn button{
+border: 1px solid #FD5631;
+color: #FD5631;
+font-weight: bold;
+background-color: #ffff;
+transition: all 1s;
+}
+
+.reset-btn:hover button{
+border: 2px solid #FD5631;
+background-color: #FD5631;
+color: #f1f2f9 !important;
+font-weight: bolder;
+}
+.added-today-btn{
+  right: -100%;
+}
+p{
+  text-align: justify;
+}
+
+@media screen and (max-width: 720px){
+
+  .accommodation{
+    margin-left: 1em;
+  }
+
+  .added-today-btn{
+    right: -4%;
+    bottom: -3%;
+  }
+  #AddedToday2{
+  left: auto;
+    top: 1em;
+  }
+  #AddedToday2::after{
+    height:100em;
+  }
+}

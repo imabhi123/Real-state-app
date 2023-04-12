@@ -1,0 +1,130 @@
+{
+    "offers": [
+        {
+          "id": "0",
+          "offer": "For rent",
+          "item": "3-bed Apartment | 67 sq.m",
+          "itemDes": "3811 Ditmars Blvd Astoria, NY 11105",
+          "price": "$1,629",
+          "City": "New York",
+          "des":"Blandit lorem dictum in velit. Et nisi at faucibus mauris pretium enim. Risus sapien nisi aliquam egestas leo dignissim.",
+          "title":"Buy a property",
+          "button": "Find a home",
+          "img": "https://images.unsplash.com/photo-1582268611958-ebfd161ef9cf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+        },
+        {
+          "id": "1",
+          "offer": "For sale",
+          "item": "Family Home| 120 sq.m",
+          "itemDes": "67-04 Myrtle Ave Glendale, NY 11385",
+          "price": "$84,000",
+          "City": "Chicago",
+          "des":"Amet, cras orci justo, tortor nisl aliquet. Enim tincidunt tellus nunc, nulla arcu posuere quis. Velit turpis orci venenatis.",
+          "title":"Sell a property",
+          "button": "Place an ad",
+          "img": "https://images.unsplash.com/photo-1416331108676-a22ccb276e35?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1167&q=80"
+        },
+        {
+          "id": "2",
+          "offer": "For rent",
+          "item": "Greenpoint Rentals | 85 sq.m",
+          "itemDes": "1510 Castle Hill Ave Bronx, NY 10462",
+          "price": "$1,330",
+          "City": "Los Angeles",
+          "title":"Rent a property",
+          "des":"Sed sed aliquet sed id purus malesuada congue viverra. Habitant quis lacus, volutpat natoque ipsum iaculis cursus.",
+          "button": "Find a rental",
+          "img": "https://th.bing.com/th/id/OIP.f7b3L6ZUHU317-sG13WAwAHaE8?pid=ImgDet&rs=1"
+        },
+        {
+          "id": "3",
+          "offer": "For sale",
+          "item": "Studio | 32 sq.m",
+          "itemDes": "140-60 Beech Ave Flushing, NY 11355",
+          "price": "$65,000",
+          "City": "San Diego",
+          "button": "Find a rental",
+          "img": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+        },
+        {
+          "id": "4",
+          "offer": "For rent",
+          "item": "3-bed Apartment | 67 sq.m",
+          "itemDes": "3811 Ditmars Blvd Astoria, NY 11105",
+          "price": "$1,629",
+          "City": "Houston",
+          "button": "Find a rental",
+          "img": "https://images.unsplash.com/photo-1582268611958-ebfd161ef9cf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+        },
+        {
+          "id": "5",
+          "offer": "For sale",
+          "item": "Family Home| 120 sq.m",
+          "itemDes": "67-04 Myrtle Ave Glendale, NY 11385",
+          "price": "$84,000",
+          "City": "Phoenix",
+          "button": "Find a rental",
+          "img": "https://images.unsplash.com/photo-1416331108676-a22ccb276e35?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1167&q=80"
+        },
+        {
+          "id": "6",
+          "offer": "For rent",
+          "item": "Greenpoint Rentals | 85 sq.m",
+          "itemDes": "1510 Castle Hill Ave Bronx, NY 10462",
+          "price": "$1,330",
+          "City": "Philadelphia",
+          "button": "Place an ad",
+          "img": "https://th.bing.com/th/id/OIP.f7b3L6ZUHU317-sG13WAwAHaE8?pid=ImgDet&rs=1"
+        },
+        {
+          "id": "7",
+          "offer": "For sale",
+          "item": "Studio | 32 sq.m",
+          "itemDes": "140-60 Beech Ave Flushing, NY 11355",
+          "price": "$65,000",
+          "City": "Dallas",
+          "button": "Place an ad",
+          "img": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+        },
+        {
+          "id": "8",
+          "offer": "For rent",
+          "item": "3-bed Apartment | 67 sq.m",
+          "itemDes": "3811 Ditmars Blvd Astoria, NY 11105",
+          "price": "$1,629",
+          "City": "San Jose",
+          "button": "Place an ad",
+          "img": "https://images.unsplash.com/photo-1582268611958-ebfd161ef9cf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+        },
+        {
+          "id": "9",
+          "offer": "For sale",
+          "item": "Family Home| 120 sq.m",
+          "itemDes": "67-04 Myrtle Ave Glendale, NY 11385",
+          "price": "$84,000",
+          "City": "Austin",
+          "button": "Fnd a home",
+          "img": "https://images.unsplash.com/photo-1416331108676-a22ccb276e35?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1167&q=80"
+        },
+        {
+          "id": "10",
+          "offer": "For rent",
+          "item": "Greenpoint Rentals | 85 sq.m",
+          "itemDes": "1510 Castle Hill Ave Bronx, NY 10462",
+          "price": "$1,330",
+          "City": "Columbus",
+          "button": "Fnd a home",
+          "img": "https://th.bing.com/th/id/OIP.f7b3L6ZUHU317-sG13WAwAHaE8?pid=ImgDet&rs=1"
+        },
+        {
+          "id": "11",
+          "offer": "For sale",
+          "item": "Studio | 32 sq.m",
+          "itemDes": "140-60 Beech Ave Flushing, NY 11355",
+          "price": "$65,000",
+          "City": "Charlotte",
+          "button": "Fnd a home",
+          "img": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+        }
+      ] 
+  }
